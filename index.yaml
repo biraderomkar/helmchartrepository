@@ -3,7 +3,7 @@ entries:
   firstchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-05T15:13:53.639618495+05:30"
+    created: "2023-09-05T15:50:09.65196732+05:30"
     description: A Helm chart for Kubernetes
     digest: b09cd3a7ab910c0ec6ae62bdffe21fd0c854673c1d58be3c532516c7fd6a10e0
     name: firstchart
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://biraderomkar.github.io/helmchartrepository/firstchart-0.1.1.tgz
     version: 0.1.1
-generated: "2023-09-05T15:13:53.639238889+05:30"
+  secondchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-05T15:50:09.652259529+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 51e2a284990636f5e36fd58fdfab83bacc96b02e2e22e7c49e3d206a93c08c0b
+    name: secondchart
+    type: application
+    urls:
+    - https://biraderomkar.github.io/helmchartrepository/secondchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-05T15:50:09.651561229+05:30"
